@@ -1,0 +1,7 @@
+{
+    "name": "studiobonito/studiobonito.github.io",
+    "description": "Studio Bonito Labs",
+    "require": {
+        "nedmas/slate": "dev-master"
+    }
+}

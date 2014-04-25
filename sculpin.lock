@@ -1,0 +1,44 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "149f81fbcded450c9b83f32dd221cac8",
+    "packages": [
+        {
+            "name": "nedmas/slate",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nedmas/slate.git",
+                "reference": "6983c0c32b0eb51fd4139ad6838acd8c493624a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nedmas/slate/zipball/6983c0c32b0eb51fd4139ad6838acd8c493624a7",
+                "reference": "6983c0c32b0eb51fd4139ad6838acd8c493624a7",
+                "shasum": ""
+            },
+            "type": "sculpin-theme",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Slate is theme for GitHub Pages or your Sculpin site. Ported from https://github.com/jasoncostello/slate",
+            "time": "2014-04-25 14:59:24"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "nedmas/slate": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

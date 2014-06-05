@@ -11,4 +11,12 @@ These are the projects that we are currently working on.
 
 ## SilverStripe
 
+* [Image Functions Module](http://studiobonito.github.io/silverstripe-imagefunctions/)
+
 * [ShortCodes Module](http://studiobonito.github.io/silverstripe-shortcodes/)
+
+* [Queue Module](http://studiobonito.github.io/silverstripe-queue/)
+
+## PHPStorm
+
+* [PHPStorm Templates for SilverStripe](http://studiobonito.github.io/phpstorm-templates-silverstripe/)
